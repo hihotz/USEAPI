@@ -20,3 +20,14 @@ D:\project\USEAPI\USEAPI\obj\Debug\USEAPI.csproj.GenerateResource.cache
 D:\project\USEAPI\USEAPI\obj\Debug\USEAPI.csproj.CoreCompileInputs.cache
 D:\project\USEAPI\USEAPI\obj\Debug\USEAPI.exe
 D:\project\USEAPI\USEAPI\obj\Debug\USEAPI.pdb
+C:\github\USEAPI\USEAPI\bin\Debug\USEAPI.exe.config
+C:\github\USEAPI\USEAPI\bin\Debug\USEAPI.exe
+C:\github\USEAPI\USEAPI\bin\Debug\USEAPI.pdb
+C:\github\USEAPI\USEAPI\obj\Debug\USEAPI.csproj.AssemblyReference.cache
+C:\github\USEAPI\USEAPI\obj\Debug\USEAPI.Main.resources
+C:\github\USEAPI\USEAPI\obj\Debug\USEAPI.Setting.resources
+C:\github\USEAPI\USEAPI\obj\Debug\USEAPI.Properties.Resources.resources
+C:\github\USEAPI\USEAPI\obj\Debug\USEAPI.csproj.GenerateResource.cache
+C:\github\USEAPI\USEAPI\obj\Debug\USEAPI.csproj.CoreCompileInputs.cache
+C:\github\USEAPI\USEAPI\obj\Debug\USEAPI.exe
+C:\github\USEAPI\USEAPI\obj\Debug\USEAPI.pdb

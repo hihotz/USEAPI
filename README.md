@@ -4,8 +4,8 @@
 웹검색도 지원합니다
 
 # 프로그램 동작사진
+![image](https://github.com/hihotz/USEAPI/assets/74196405/9e5e5988-8600-4e83-be70-6397fc096d95)
 
-![image](https://github.com/hihotz/USEAPI/assets/74196405/6277ba25-1d5f-414e-9347-8162723c49ad)
 
 # 주요기능
 * 상단의 환경설정에서는 웹의 기본 페이지를 설정 할 수 있습니다
